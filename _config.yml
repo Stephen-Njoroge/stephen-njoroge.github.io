@@ -2,7 +2,7 @@ name: Steve-254
 description: the tech enthusiast blog
 url: https://stephen-njoroge.github.io
 gems: [jekyll-paginate]
-baseurl:   _site
+baseurl: #
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
